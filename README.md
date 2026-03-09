@@ -1,5 +1,5 @@
 ## House Search
-A mini-project that fetches data from an API for a particular house based on the filters set by the user.
+A mini-project that fetches data from an API for a particular house based on the filters set by the user. 
 This is based on 'Challenge: Building a house data UI' of MDN.
 
 ## Interface
